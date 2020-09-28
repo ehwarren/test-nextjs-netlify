@@ -10,6 +10,7 @@ export default function Index() {
       <BasicMeta url={"/"} />
       <OpenGraphMeta url={"/"} />
       <TwitterCardMeta url={"/"} />
+      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       <div className="container">
         <div>
           <h1>
